@@ -9,12 +9,23 @@
     height: 70px;
 }
 .logo-img{
-    width:70px ;
+    width:150px ;
 
 }
 .img-icon{
     width:70px ;
     height:70px ;
+}
+.text{
+ display: flex;
+ flex-direction: column;
+}
+.size{
+    width:35px;
+   height:33px;
+}
+.space{
+    margin-bottom: 50px;
 }
 
   
